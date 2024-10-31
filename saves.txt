@@ -1,0 +1,2 @@
+name:axis:scale:data
+javelin:date,distance:10,10:26,32,35,37,40,42,45,47,49,50
